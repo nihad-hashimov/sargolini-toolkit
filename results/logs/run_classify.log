@@ -1,0 +1,151 @@
+# command: SARGOLINI_DATA=<folder of .mat files> python -m sargolini_toolkit.run_classify --shuffles 200 --seed 1 --out-dir results
+  [  1/119] 10073-17010302               8 cells  square    97 cm        4s elapsed
+  [  2/119] 10697-02030402               5 cells  square    98 cm        6s elapsed
+  [  3/119] 10697-24020402               5 cells  square    96 cm        8s elapsed
+  [  4/119] 10704-06070402               3 cells  square    98 cm       10s elapsed
+  [  5/119] 10704-07070402               4 cells  square    99 cm       11s elapsed
+  [  6/119] 10704-07070407               6 cells  square    99 cm       14s elapsed
+  [  7/119] 10704-08070402               7 cells  square    99 cm       18s elapsed
+  [  8/119] 10704-19070402               2 cells  square    98 cm       18s elapsed
+  [  9/119] 10704-20060402               9 cells  square    96 cm       22s elapsed
+  [ 10/119] 10704-20070402               2 cells  square    98 cm       23s elapsed
+  [ 11/119] 10704-23060402               3 cells  square    96 cm       24s elapsed
+  [ 12/119] 10704-25060402               3 cells  square    97 cm       26s elapsed
+  [ 13/119] 10704-26060402               5 cells  square    94 cm       28s elapsed
+  [ 14/119] 10884-01080402               2 cells  square    99 cm       29s elapsed
+  [ 15/119] 10884-02080405               3 cells  square    98 cm       30s elapsed
+  [ 16/119] 10884-03080402               6 cells  square    98 cm       33s elapsed
+  [ 17/119] 10884-03080405               4 cells  square    98 cm       34s elapsed
+  [ 18/119] 10884-03080409               4 cells  square    98 cm       36s elapsed
+  [ 19/119] 10884-04080402               3 cells  square    98 cm       37s elapsed
+  [ 20/119] 10884-05080401               3 cells  square    98 cm       38s elapsed
+  [ 21/119] 10884-08070402               4 cells  square    96 cm       40s elapsed
+  [ 22/119] 10884-08070405               1 cells  square    97 cm       41s elapsed
+  [ 23/119] 10884-09080404               4 cells  square    98 cm       42s elapsed
+  [ 24/119] 10884-13070402               2 cells  square    97 cm       43s elapsed
+  [ 25/119] 10884-14070405               3 cells  square    95 cm       44s elapsed
+  [ 26/119] 10884-16070401               2 cells  square    96 cm       45s elapsed
+  [ 27/119] 10884-19070401               1 cells  square    97 cm       46s elapsed
+  [ 28/119] 10884-21070405               3 cells  square    98 cm       47s elapsed
+  [ 29/119] 10884-24070401               1 cells  square    98 cm       47s elapsed
+  [ 30/119] 10884-31070404               1 cells  square    98 cm       48s elapsed
+  [ 31/119] 10938-08100401               3 cells  square    97 cm       49s elapsed
+  [ 32/119] 10938-12100406               4 cells  square    97 cm       51s elapsed
+  [ 33/119] 10938-12100410               1 cells  square    98 cm       52s elapsed
+  [ 34/119] 10962-27110403               5 cells  square    98 cm       54s elapsed
+  [ 35/119] 10962-28110402               2 cells  square    97 cm       55s elapsed
+  [ 36/119] 10962-28110406               3 cells  square    99 cm       56s elapsed
+  [ 37/119] 10962-29110404               1 cells  square    98 cm       57s elapsed
+  [ 38/119] 11016-02020502               2 cells  square    98 cm       58s elapsed
+  [ 39/119] 11016-25010501               1 cells  square    98 cm       58s elapsed
+  [ 40/119] 11016-28010501               1 cells  square    97 cm       59s elapsed
+  [ 41/119] 11016-29010503               4 cells  square    98 cm       60s elapsed
+  [ 42/119] 11016-31010502               5 cells  square    96 cm       63s elapsed
+  [ 43/119] 11025-01060511               3 cells  square    95 cm       64s elapsed
+  [ 44/119] 11025-06050501+02            7 cells  circle   195 cm       70s elapsed
+  [ 45/119] 11025-11040501+02            6 cells  circle   205 cm       76s elapsed
+  [ 46/119] 11025-14050501+02            3 cells  circle   200 cm       79s elapsed
+  [ 47/119] 11025-16050501+02            4 cells  circle   192 cm       82s elapsed
+  [ 48/119] 11025-19050503               8 cells  square    98 cm       86s elapsed
+  [ 49/119] 11025-20050501               7 cells  square    93 cm       90s elapsed
+  [ 50/119] 11084-01030503               7 cells  square    97 cm       93s elapsed
+  [ 51/119] 11084-02030502               7 cells  square    98 cm       96s elapsed
+  [ 52/119] 11084-03020501               6 cells  square    94 cm      100s elapsed
+  [ 53/119] 11084-08030506               6 cells  square    93 cm      102s elapsed
+  [ 54/119] 11084-09030501               6 cells  square    95 cm      106s elapsed
+  [ 55/119] 11084-09030503               1 cells  square    93 cm      106s elapsed
+  [ 56/119] 11084-10030502              10 cells  square    94 cm      112s elapsed
+  [ 57/119] 11084-23020502               7 cells  square    95 cm      115s elapsed
+  [ 58/119] 11084-24020502               2 cells  square    96 cm      116s elapsed
+  [ 59/119] 11084-28020501               3 cells  square    97 cm      117s elapsed
+  [ 60/119] 11138-05040502               1 cells  square    93 cm      118s elapsed
+  [ 61/119] 11138-06040501               3 cells  square    92 cm      119s elapsed
+  [ 62/119] 11138-06040507               5 cells  square    93 cm      122s elapsed
+  [ 63/119] 11138-07040501               3 cells  square    93 cm      123s elapsed
+  [ 64/119] 11138-08040501               1 cells  square    90 cm      124s elapsed
+  [ 65/119] 11138-11040501               3 cells  square    91 cm      125s elapsed
+  [ 66/119] 11138-11040504+05            4 cells  circle   103 cm      127s elapsed
+  [ 67/119] 11138-11040509               5 cells  square    97 cm      130s elapsed
+  [ 68/119] 11138-12110501               4 cells  square    92 cm      132s elapsed
+  [ 69/119] 11138-13040502               3 cells  square    94 cm      133s elapsed
+  [ 70/119] 11138-15040504+05            2 cells  circle   194 cm      135s elapsed
+  [ 71/119] 11138-19040502               1 cells  square    95 cm      136s elapsed
+  [ 72/119] 11138-20040502               7 cells  square    94 cm      139s elapsed
+  [ 73/119] 11138-25040501               1 cells  square    93 cm      140s elapsed
+  [ 74/119] 11138-26040501               3 cells  square    97 cm      141s elapsed
+  [ 75/119] 11207-03060501               2 cells  circle   197 cm      143s elapsed
+  [ 76/119] 11207-03060501+02            5 cells  circle   196 cm      147s elapsed
+  [ 77/119] 11207-04070501+02            8 cells  circle   196 cm      154s elapsed
+  [ 78/119] 11207-05070501               3 cells  square    94 cm      156s elapsed
+  [ 79/119] 11207-06070501+02            7 cells  circle   195 cm      162s elapsed
+  [ 80/119] 11207-07070501+02            8 cells  circle   199 cm      169s elapsed
+  [ 81/119] 11207-08060501               3 cells  square    97 cm      171s elapsed
+  [ 82/119] 11207-08070504+05           11 cells  circle   197 cm      181s elapsed
+  [ 83/119] 11207-09060501+02           10 cells  circle   195 cm      190s elapsed
+  [ 84/119] 11207-09070501               1 cells  square    94 cm      190s elapsed
+  [ 85/119] 11207-09070505+06            2 cells  circle   196 cm      192s elapsed
+  [ 86/119] 11207-10070501               4 cells  square    94 cm      194s elapsed
+  [ 87/119] 11207-10070503+04            3 cells  circle   191 cm      197s elapsed
+  [ 88/119] 11207-11060501              12 cells  square    99 cm      203s elapsed
+  [ 89/119] 11207-11060502               5 cells  square    97 cm      205s elapsed
+  [ 90/119] 11207-11060503+04            4 cells  circle   197 cm      209s elapsed
+  [ 91/119] 11207-14060501               9 cells  square    98 cm      213s elapsed
+  [ 92/119] 11207-16060501              10 cells  square    94 cm      219s elapsed
+  [ 93/119] 11207-17060501+02            8 cells  circle   195 cm      226s elapsed
+  [ 94/119] 11207-18060501+02           18 cells  circle   198 cm      242s elapsed
+  [ 95/119] 11207-20060501               7 cells  square    88 cm      245s elapsed
+  [ 96/119] 11207-21060501+02            5 cells  circle   197 cm      250s elapsed
+  [ 97/119] 11207-21060503              13 cells  square    89 cm      256s elapsed
+  [ 98/119] 11207-23060501               9 cells  square    93 cm      261s elapsed
+  [ 99/119] 11207-24060501+02            9 cells  circle   196 cm      268s elapsed
+  [100/119] 11207-27060501              14 cells  square    93 cm      275s elapsed
+  [101/119] 11207-27060504+05            3 cells  circle   194 cm      278s elapsed
+  [102/119] 11207-30060501              10 cells  square    88 cm      283s elapsed
+  [103/119] 11207-30060503+04            1 cells  circle   196 cm      284s elapsed
+  [104/119] 11265-01020602               9 cells  square    99 cm      288s elapsed
+  [105/119] 11265-02020601              11 cells  square    99 cm      294s elapsed
+  [106/119] 11265-03020601              12 cells  square    99 cm      301s elapsed
+  [107/119] 11265-06020601              19 cells  square    99 cm      310s elapsed
+  [108/119] 11265-07020602               8 cells  square    99 cm      314s elapsed
+  [109/119] 11265-09020601              13 cells  square    97 cm      321s elapsed
+  [110/119] 11265-13020601               5 cells  square    98 cm      323s elapsed
+  [111/119] 11265-16030601+02           12 cells  square   142 cm      333s elapsed
+  [112/119] 11265-16030604+05           14 cells  square   140 cm      343s elapsed
+  [113/119] 11265-31010601               8 cells  square    98 cm      347s elapsed
+  [114/119] 11278-30080505               6 cells  square    98 cm      350s elapsed
+  [115/119] 11278-31080502              11 cells  circle   119 cm      356s elapsed
+  [116/119] 11340-01120501               2 cells  square    93 cm      357s elapsed
+  [117/119] 11340-22110501               5 cells  square    96 cm      360s elapsed
+  [118/119] 11340-25110501               3 cells  square    97 cm      361s elapsed
+  [119/119] 11343-08120502               4 cells  square    98 cm      363s elapsed
+  saved results/tables/cell_classification.csv  (626 rows x 27 cols)
+
+=== THRESHOLDS (pooled shuffled null, 95th percentile) ===
+  gridness           > +0.391   (125168 shuffled values)
+  Watson U^2         > 1.3986  (91800 shuffled values)
+      the TABULATED 5% value is 0.187, which 444/459 cells (96.7%) exceed.
+      It assumes independent samples, and neither 50 Hz tracking nor bursting
+      spikes are, so the shuffled threshold is the usable one.
+  speed score        > +0.047 or < -0.089   (125200, two-tailed at 95%)
+
+=== CLASSIFICATION ===
+  cells with >= 100 spikes : 626/626
+  grid cells                :  183  (29.2% of usable)
+  head-direction cells      :  326  (71.0% of the 459 with a second LED)
+  conjunctive (grid AND HD) :   84
+  speed-modulated           :  212  (33.9%)
+
+=== DATASET ===
+  sessions with cells : 119
+  rats                : 15
+  cells               : 626
+  circle enclosures   : 23 sessions, 141 cells
+  square enclosures   : 96 sessions, 485 cells
+  two LEDs (head direction available): 72 sessions, 459 cells
+
+=== GRID SPACING (first-ring radius of the autocorrelogram) ===
+  n = 183   median 60.0 cm   range 35-120 cm
+  saved results/figures/classification.png
+
+total 364 s
+# exit 0, wall time 365 s

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+
+# Raw recordings are never committed.
+*.mat
+data/
+
+# Derived per-cell tables and shuffled nulls are not committed until the
+# dataset licence has been checked.
+results/tables/
