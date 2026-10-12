@@ -11,7 +11,7 @@ and reproduce their classification into **grid**, **head-direction** and
 **conjunctive** cells, with a circular-shift null for every score. A
 running-speed score is computed and classified alongside them.
 
-Rate maps and gridness use [`gridcan`](../gridcan): its NaN-tolerant
+Rate maps and gridness use [`gridcan`](https://github.com/nihad-hashimov/gridcan): its NaN-tolerant
 autocorrelogram and rotational gridness score (`gridcan.analysis`).
 
 ## Data
@@ -134,12 +134,10 @@ To be filled from the paper.
 
 ## How to run
 
-Python 3.14 (results produced with CPython 3.14.6). Install `gridcan` from
-its local path first:
+Python 3.14 (results produced with CPython 3.14.6). Installing the package
+also installs its dependency [`gridcan`](https://github.com/nihad-hashimov/gridcan)
+from GitHub:
 
-```bash
-pip install -e ../gridcan
-```
 ```bash
 pip install -e ".[test]"
 ```

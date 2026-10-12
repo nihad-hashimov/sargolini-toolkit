@@ -11,7 +11,7 @@ requires-python = ">=3.14,<3.15"   # results in results/ were produced with CPyt
 license = "MIT"
 license-files = ["LICENSE"]
 dependencies = [
-    "gridcan==0.1.0",              # local package: pip install -e ../gridcan first
+    "gridcan @ git+https://github.com/nihad-hashimov/gridcan",
     "numpy==2.5.2",
     "scipy==1.18.0",
     "matplotlib==3.11.1",
