@@ -8,7 +8,8 @@ version = "0.1.0"
 description = "Loader and cell classification for the Sargolini et al. 2006 grid-cell recordings"
 readme = "README.md"
 requires-python = ">=3.14,<3.15"   # results in results/ were produced with CPython 3.14.6
-license = { file = "LICENSE" }
+license = "MIT"
+license-files = ["LICENSE"]
 dependencies = [
     "gridcan==0.1.0",              # local package: pip install -e ../gridcan first
     "numpy==2.5.2",

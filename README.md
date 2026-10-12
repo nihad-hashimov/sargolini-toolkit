@@ -175,12 +175,8 @@ pytest
 - **Pinned to one environment** (numpy 2.5.2, scipy 1.18.0, matplotlib 3.11.1,
   Python 3.14); other versions are untested.
 
-## AI assistance
-
-TODO (author): describe how AI tools were used in writing this code and
-documentation.
-
 ## License
 
-See `LICENSE` (placeholder; licence not yet chosen). The data are covered by
+MIT -- see `LICENSE`. Copyright (c) 2026 Nihad Hashimov. The licence covers the
+code only; the data are covered by
 the archive's own terms.
